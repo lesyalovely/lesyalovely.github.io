@@ -1,10 +1,10 @@
 /*2104*/
-.name-date a.name[title="morr"]::after,
-.name-date a.name[href*="/morr"]::after,
-.subheadline a[title="morr"]::after,
-.name-date a.name[title="EngiNier"]::after,
-.name-date a.name[href*="/EngiNier"]::after,
-.subheadline a[title="EngiNier"]::after,
+.name-date a.name[title="loli"]::after,
+.name-date a.name[href*="/loli"]::after,
+.subheadline a[title="loli"]::after,
+.name-date a.name[title="Lolip1e"]::after,
+.name-date a.name[href*="/Lolip1e"]::after,
+.subheadline a[title="Lolip1e"]::after,
 .name-date a.name[title="Cosmo+%E2%98%AD"]:after,
 .name-date a.name[href*="/Cosmo+%E2%98%AD"]:after,
 .subheadline a[title="Cosmo+%E2%98%AD"]:after
@@ -24,73 +24,73 @@
     opaity:0;
     transition: 0.2s;
 }
-.name-date a.name[title="morr"]:hover:after,
-.name-date a.name[href*="/morr"]:hover:after,
-.subheadline a[title="morr"]:hover:after,
-.name-date a.name[title="EngiNier"]:hover:after,
-.name-date a.name[href*="/EngiNier"]:hover:after,
-.subheadline a[title="EngiNier"]:hover:after,
-.name-date a.name[title="Cosmo+%E2%98%AD"]:hover:after,
-.name-date a.name[href*="/Cosmo+%E2%98%AD"]:hover:after,
-.subheadline a[title="Cosmo+%E2%98%AD"]:hover:after
+.name-date a.name[title="loli"]:hover:after,
+.name-date a.name[href*="/loli"]:hover:after,
+.subheadline a[title="loli"]:hover:after,
+.name-date a.name[title="Lolip1e"]:hover:after,
+.name-date a.name[href*="/Lolip1e"]:hover:after,
+.subheadline a[title="Lolip1e"]:hover:after,
+.name-date a.name[title="Lolip1e+%E2%98%AD"]:hover:after,
+.name-date a.name[href*="/Lolip1e+%E2%98%AD"]:hover:after,
+.subheadline a[title="Lolip1e+%E2%98%AD"]:hover:after
 {
     width: 120px;
     margin-left: 10px;
 opacity: 1;
 }
-.subheadline a[title="morr"]:hover:after, .subheadline a[title="morr"]:hover:after {
+.subheadline a[title="loli"]:hover:after, .subheadline a[title="loli"]:hover:after {
     line-height: 20px;
     padding-top: 2px;
     margin-top: -2px;
 }
 
-.name-date a.name[title="morr"]:hover:after,
-.name-date a.name[href*="/morr"]:hover:after,
-.subheadline a[title="morr"]:hover:after {
+.name-date a.name[title="loli"]:hover:after,
+.name-date a.name[href*="/loli"]:hover:after,
+.subheadline a[title="loli"]:hover:after {
     content: "Big Boss";
 }
 
-img[alt='morr'] {
+img[alt='loli'] {
     border: 2px solid #ffad007a !important;
   }
-  .name-date a.name[title="morr"], a.name[href*="/morr"] {
+  .name-date a.name[title="loli"], a.name[href*="/loli"] {
     color: #fdc47a !important;
     font-size: 19px !important;
     line-height: 15px !important;
   }
-  .subheadline a[title="morr"] {
+  .subheadline a[title="loli"] {
     color: #fdc47a !important;
   }
   
-  .b-topic > .inner header img[alt="morr"] {
+  .b-topic > .inner header img[alt="loli"] {
         border: 2px solid rgba(183, 139, 82, 0.9)!important;
     
   }
-.b-comment > .inner header a[href*="/EngiNier"] img {
+.b-comment > .inner header a[href*="/Lolip1e"] img {
     border: 2px solid #a7843d75;
 }
-.b-comment > .inner header a[href*="/Cosmo+%E2%98%AD"] img {
+.b-comment > .inner header a[href*="/Lolip1e+%E2%98%AD"] img {
     border: 2px solid #3ba2bd75;
 }
-.name-date a.name[title="EngiNier"], .b-comment>.inner a.name[href*="/EngiNier"], .subheadline a[title="EngiNier"] {
+.name-date a.name[title="Lolip1e"], .b-comment>.inner a.name[href*="/Lolip1e"], .subheadline a[title="Lolip1e"] {
     color: #e2e2e2!important;
 }
-.name-date a.name[title="Cosmo+%E2%98%AD"], .b-comment>.inner a.name[href*="/Cosmo+%E2%98%AD"], .subheadline a[title="Cosmo+%E2%98%AD"] {
+.name-date a.name[title="Lolip1e+%E2%98%AD"], .b-comment>.inner a.name[href*="/Lolip1e+%E2%98%AD"], .subheadline a[title="Lolip1e+%E2%98%AD"] {
     color: #9ee0f1!important;
 }
   
-  .b-user16 a[title="morr"] {
+  .b-user16 a[title="loli"] {
     color: #fdc47a !important;
     font-weight: bold;
   }
 
 
-.name-date a.name[title="EngiNier"]:hover:after,
-.name-date a.name[href*="/EngiNier"]:hover:after,
-.subheadline a[title="EngiNier"]:hover:after,
-.name-date a.name[title="Cosmo+%E2%98%AD"]:hover:after,
-.name-date a.name[href*="/Cosmo+%E2%98%AD"]:hover:after,
-.subheadline a[title="Cosmo+%E2%98%AD"]:hover:after
+.name-date a.name[title="Lolip1e"]:hover:after,
+.name-date a.name[href*="/Lolip1e"]:hover:after,
+.subheadline a[title="Lolip1e"]:hover:after,
+.name-date a.name[title="Lolip1e+%E2%98%AD"]:hover:after,
+.name-date a.name[href*="/Lolip1e+%E2%98%AD"]:hover:after,
+.subheadline a[title="Lolip1e+%E2%98%AD"]:hover:after
 {
     content:"Edesign Admin";
 }
@@ -3053,7 +3053,7 @@ body.p-achievements.p-profiles .b-anime_status_tag.episode,
 .l-top_menu {
     background: linear-gradient(to bottom, rgba(var(--menu-back), 0.8) 0%, rgba(var(--menu-back), 0.6) 70%, rgba(var(--menu-back), 0.4) 100%);
     box-shadow: 0 1px 20px 10px rgba(var(--menu-back), 0.4) !important;
-    /* Код EngiNier */
+    /* Код Lolip1e */
 }
 
 /*Загрузка!> убирает баг постеров в клубах и на страничках с постерами*/
